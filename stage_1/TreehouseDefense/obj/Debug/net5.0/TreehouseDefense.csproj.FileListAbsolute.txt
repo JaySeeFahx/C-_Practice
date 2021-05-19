@@ -1,0 +1,16 @@
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\bin\Debug\net5.0\TreehouseDefense.exe
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\bin\Debug\net5.0\TreehouseDefense.deps.json
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\bin\Debug\net5.0\TreehouseDefense.runtimeconfig.json
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\bin\Debug\net5.0\TreehouseDefense.runtimeconfig.dev.json
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\bin\Debug\net5.0\TreehouseDefense.dll
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\bin\Debug\net5.0\ref\TreehouseDefense.dll
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\bin\Debug\net5.0\TreehouseDefense.pdb
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\TreehouseDefense.csprojAssemblyReference.cache
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\TreehouseDefense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\TreehouseDefense.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\TreehouseDefense.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\TreehouseDefense.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\TreehouseDefense.dll
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\ref\TreehouseDefense.dll
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\TreehouseDefense.pdb
+C:\Users\jacob\Desktop\Code Louisville\Treehouse\C#_Objects\stage_1\TreehouseDefense\obj\Debug\net5.0\TreehouseDefense.genruntimeconfig.cache
