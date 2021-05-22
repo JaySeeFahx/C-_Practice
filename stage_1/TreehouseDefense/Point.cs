@@ -1,32 +1,26 @@
-﻿using System;
+using System;
+
 namespace TreehouseDefense
 {
     class Point
     {
         public readonly int X;
         public readonly int Y;
-
+        
         public Point(int x, int y)
         {
             X = x;
             Y = y;
         }
-
+        
         public int DistanceTo(int x, int y)
         {
-            /* int xDiff = X - x;
-            int yDiff = Y - y;
-
-            int xDiffSquared = xDiff * xDiff;
-            int yDiffSquared = yDiff * yDiff;
-
-            return (int)Math.Sqrt(xDiffSquared + yDiffSquared); */
-
-            return (int)Math.Sqrt(Math.Pow(X - x, 2) + Math.Pow(Y - y,2));
-           
-            // It's okay to break a problem down into simpler, easier to understand parts.
-            // Once you do that and can understand how the code works, you can then consolidate it it you want.
+            return (int)Math.Sqrt(Math.Pow(X-x, 2) + Math.Pow(Y-y, 2));
         }
-
+        
+        public int DistanceTo(Point point)
+        {
+            return DistanceTo(point.X, point.Y);
+        }
     }
 }
